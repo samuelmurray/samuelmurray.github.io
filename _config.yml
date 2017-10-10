@@ -1,2 +1,11 @@
 theme: jekyll-theme-minimal
+
+exclude: ["README.md", "License.md"]
+
 title: Samuel Murray
+author :
+  name : Samuel Murray
+  email : samuelmu@kth.se
+  github : samuelmurray
+
+production_url : https://samuelmurray.github.io/
