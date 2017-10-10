@@ -7,4 +7,4 @@ description: Personal webpage of Samuel Murray
 
 Hello World
 
-You can also look at my [sub page](pages/subpage.html)
+You can also look at my [sub page](pages/sub_page.html)

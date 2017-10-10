@@ -1,3 +1,3 @@
-# Personal page
+# Personal page of Samuel Murray
 
-<samuelmurray.github.io>
+<https://samuelmurray.github.io/>
