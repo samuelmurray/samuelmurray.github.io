@@ -1,10 +1,6 @@
 ---
-layout: default
-title: test page
-tagline: completely awesome, yes?
-description: Personal webpage of Samuel Murray
+# Feel free to add content and custom Front Matter to this file.
+# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+
+layout: home
 ---
-
-Hello World!
-
-You can also look at my [sub page](pages/sub_page.html)
