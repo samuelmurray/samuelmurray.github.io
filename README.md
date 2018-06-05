@@ -1,2 +1,2 @@
-# samuelmurray.github.io
-Personal page
+# Personal page
+<samuelmurray.github.io>
