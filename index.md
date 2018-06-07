@@ -3,8 +3,8 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-exclude: true
 title: About
+exclude: true
 ---
 
 My name is **Samuel Murray** and I am a PhD student in Machine Learning at KTH Royal Institute of Technology, Stockholm, Sweden.
