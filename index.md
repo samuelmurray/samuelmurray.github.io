@@ -11,4 +11,4 @@ exclude: true
 
 My name is **Samuel Murray** and I am a PhD student in Machine Learning at KTH Royal Institute of Technology, Stockholm, Sweden.
 
-My research is about probabilistic models, and how prior knowledge can be used in model design.
+My research is on probabilistic models, and on how prior knowledge can be used in model design.
