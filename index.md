@@ -7,7 +7,7 @@ title: About
 exclude: true
 ---
 <!-- ![portrait](assets/portrait.png "Portrait") -->
-<img style="float: left; border: 5px solid white" src="assets/portrait.png">
+<img style="float: left; border: 5px solid white" src="assets/portrait.png" alt="portrait">
 
 My name is **Samuel Murray** and I am a PhD student in Machine Learning at KTH Royal Institute of Technology, Stockholm, Sweden.
 
