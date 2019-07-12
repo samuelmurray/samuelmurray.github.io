@@ -6,11 +6,11 @@ permalink: /teaching/
 
 ### Current Teaching
 
-* TA in [Probabilistic Graphical Models](https://www.kth.se/student/kurser/kurs/DD2420?l=en)
-
 ### Previous Teaching
 
 #### 2018-2019
+
+* TA in [Probabilistic Graphical Models](https://www.kth.se/student/kurser/kurs/DD2420?l=en)
 * TA in [Machine Learning](https://www.kth.se/student/kurser/kurs/DD2421?l=en)
 * TA in [Artificial Intelligence](https://www.kth.se/student/kurser/kurs/DD2380?l=en)
 
