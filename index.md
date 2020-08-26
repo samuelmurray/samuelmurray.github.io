@@ -6,6 +6,7 @@ layout: home
 title: About
 exclude: true
 ---
+
 <!-- ![portrait](assets/portrait.png "Portrait") -->
 <img style="float: left; border: 5px solid white" src="assets/portrait.png" alt="portrait">
 

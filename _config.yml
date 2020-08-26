@@ -14,9 +14,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Samuel Murray
-email: samuelmu[at]kth[dot]se
+email: samuel[dot]murray[at]outlook[dot]com
 description: >- # this means to ignore newlines until "baseurl:"
-  Samuel Murray, PhD student in Machine Learning at KTH Royal Institute of Technology
+  Home of Samuel Murray, Software developer in Stockholm, Sweden
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://samuelmurray.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  samuelmurray
@@ -24,8 +24,6 @@ github_username:  samuelmurray
 # Build settings
 markdown: kramdown
 theme: minima
-plugins:
-  - jekyll-feed
 include: ['_pages']
 exclude: [vendor]
 
