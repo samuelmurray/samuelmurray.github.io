@@ -9,6 +9,4 @@ exclude: true
 <!-- ![portrait](assets/portrait.png "Portrait") -->
 <img style="float: left; border: 5px solid white" src="assets/portrait.png" alt="portrait">
 
-My name is **Samuel Murray** and I am a PhD student in Machine Learning at KTH Royal Institute of Technology, Stockholm, Sweden.
-
-My research is on probabilistic models, and on how prior knowledge can be used in model design.
+My name is **Samuel Murray**, and I am a software developer currently located in Stockholm, Sweden.
