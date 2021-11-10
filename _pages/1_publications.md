@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Research
-permalink: /research/
+permalink: /research
 ---
 
 I was a PhD student in machine learning at KTH Royal Institute of Technology, 2017-2019, supervised by Hedvig Kjellström and Jana Tumova. My research was on probabilistic models, and on how prior knowledge could be used in model design.

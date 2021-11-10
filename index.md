@@ -10,4 +10,4 @@ exclude: true
 <!-- ![portrait](assets/portrait.png "Portrait") -->
 <img style="float: left; border: 5px solid white" src="assets/portrait.png" alt="portrait">
 
-My name is **Samuel Murray**, and I am a software developer currently located in Stockholm, Sweden.
+My name is **Samuel Murray**, and I am a software developer located in Stockholm, Sweden.
