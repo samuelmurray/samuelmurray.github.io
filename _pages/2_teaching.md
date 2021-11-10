@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Teaching
-permalink: /teaching/
+permalink: /teaching
 ---
 
 During my [time as a PhD student](/research), I was a teaching assistant for master level classes. 
